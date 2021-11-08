@@ -88,6 +88,7 @@
   // console.log(myFunction('Adrian'));
 
   // Esto es la firmma donde indicamos los tipos de parametro y el return
+  // esto puede hacer que devuelva un string
   let myFunction:()=>string
   myFunction = saveTheWorld
   console.log(myFunction());
